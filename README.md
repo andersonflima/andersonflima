@@ -23,9 +23,9 @@ I'll write down a preview of my daily routine to answer some questions.
 - Redis
 - Kafka
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonflima" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonflima&layout=compact" />
 </a>
