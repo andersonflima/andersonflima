@@ -6,7 +6,7 @@ Atualmente atuo como ***Líder técnico*** na ***Lionx***.
 
 Bom para sanar algumas dúvidas vou descrever um pouco do meu dia a dia. 
 
-***Minha rotina se baseia em:
+***Minha rotina se baseia em***:
 
 - Estudar, mapear e programar implementações de novas funcionalidades e correções pertinentes junto ao time.
 
@@ -14,7 +14,7 @@ Bom para sanar algumas dúvidas vou descrever um pouco do meu dia a dia.
 
 - Realizar code review, aprovar pull requests e validar entregas para deploy.
 
-****Nossa tech stack atual consistem em:
+***Nossa tech stack atual consistem em***:
   - MongoDb
   - Python
   - FastApi
