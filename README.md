@@ -9,8 +9,11 @@ I'll write down a preview of my daily routine to answer some questions.
 
 ***As a Technical Lead, my work consists of in:***
 - Attend some meetings to catch up about product development and deadlines.
-- Approve or decline pull requests, and validate integrity for deployment.
+- Approve or decline pull requests.
 - Update my team on deliveries and deadlines.
+- Always do my best to improve them as professionals.
+- Motivate them to work harder and always try their best.
+- Share with my team their accomplishments.
 	
 ***Our current tech stack is:***
 - MongoDB
