@@ -2,7 +2,7 @@
 
 Sou ***Anderson Faustino***, e um prazer conhece-lo(a).
 
-Atualmente atuo como ***Líder técnico*** na ***Lionx***.
+Atualmente tenho o cargo de ***Líder técnico*** na ***Lionx***.
 
 Bom para sanar algumas dúvidas vou descrever um pouco do meu dia a dia. 
 
