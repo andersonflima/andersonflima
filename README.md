@@ -1,26 +1,24 @@
-### Olá! 👋
+### Hello There! 👋
 
-Sou ***Anderson Faustino***, e um prazer conhece-lo(a).
 
-Atualmente tenho o cargo de ***Líder técnico*** na ***Lionx***.
+I'm ***Anderson Faustino***. It's a pleasure to meet you; thank you for your time.
 
-Bom para sanar algumas dúvidas vou descrever um pouco do meu dia a dia. 
+Currently, I am working at ***Lionx*** as a ***Technical Lead***.
 
-***Minha rotina se baseia em***:
+I'll write down a preview of my daily routine to answer some questions.
 
-- Estudar, mapear e programar implementações de novas funcionalidades e correções pertinentes junto ao time.
-
-- Alinhar e definir processos, transparecer e delegar as tarefas para desenvolvimento do produto.
-
-- Realizar code review, aprovar pull requests e validar entregas para deploy.
-
-***Nossa tech stack atual consistem em***:
-  - MongoDb
-  - Python
-  - FastApi
-  - GraphQl
-  - Redis
-  - Kafka
+***As a Technical Lead, my work consists of in:***
+	- Attend some meetings to catch up about product development and deadlines.
+	- Approve or decline pull requests, and validate integrity for deployment.
+	- Update my team on deliveries and deadlines.
+	
+***Our current tech stack is:***
+	- MongoDB
+	- Python
+	- FastApi
+	- GraphQl
+	- Redis
+	- Kafka
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonflima" />
