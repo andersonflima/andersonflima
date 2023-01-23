@@ -6,13 +6,13 @@ Atualmente atuo como Líder técnico na Lionx.
 
 Bom para sanar algumas dúvidas vou descrever um pouco do meu dia a dia. 
 
-Minha rotina se baseia em:
+#### Minha rotina se baseia em:
 
-Estudar, mapear e programar implementações de novas funcionalidades e correções pertinentes junto ao time.
+- Estudar, mapear e programar implementações de novas funcionalidades e correções pertinentes junto ao time.
 
-Alinhar e definir processos, transparecer e delegar as tarefas para desenvolvimento do produto.
+- Alinhar e definir processos, transparecer e delegar as tarefas para desenvolvimento do produto.
 
-Realizar code review, aprovar pull requests e validar entregas para deploy.
+- Realizar code review, aprovar pull requests e validar entregas para deploy.
 
 Nossa tech stack atual consistem em:
   `MongoDb
