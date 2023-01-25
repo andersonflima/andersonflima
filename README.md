@@ -7,7 +7,7 @@ Currently, I am working at ***Lionx*** as a ***Technical Lead***.
 
 I'll write down a preview of my daily routine to answer some questions.
 
-***As a Technical Lead, my work consists of in:***
+***As a Technical Lead, my work consists in:***
 - Attend some meetings to catch up about product development and deadlines.
 - Approve or decline pull requests.
 - Update my team on deliveries and deadlines.
