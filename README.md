@@ -18,10 +18,12 @@ I'll write down a preview of my daily routine to answer some questions.
 ***Our current tech stack is:***
 - MongoDB
 - Python
+- Node.js
 - FastApi
 - GraphQl
 - Redis
 - Kafka
+- Rust
   
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonflima" />
