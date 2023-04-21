@@ -15,7 +15,7 @@ I'll write down a preview of my daily routine to answer some questions.
 - Motivate them to work harder and always try their best.
 - Share with my team their accomplishments.
 	
-***Our current tech stack is:***
+***Techs that i'm working with:***
 - MongoDB
 - Python
 - Node.js
