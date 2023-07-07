@@ -3,7 +3,7 @@
 
 I'm ***Anderson Faustino***. It's a pleasure to meet you; thank you for your time.
 
-Currently, I am working at ***Lionx*** as a ***Technical Lead***.
+Currently, I am working at ***PicPay*** as a ***Technical Manager***.
 
 ***Techs that i'm working with:***
 - MongoDB
