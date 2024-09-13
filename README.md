@@ -1,4 +1,4 @@
-# Hello, I'm [Anderson Faustino]! ??
+# Hello, I'm Anderson Faustino! ??
 
 ?? **Senior Software Engineer | Tech Enthusiast | Lifelong Learner**
 
