@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! ??
+# Hello, I'm [Anderson Faustino]! ??
 
 ?? **Senior Software Engineer | Tech Enthusiast | Lifelong Learner**
 
@@ -27,7 +27,7 @@ I'm a passionate software engineer with over 9 years of experience in full-stack
 
 ## ?? My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonflima&show_icons=true&hide_border=true&theme=dark)
 
 ---
 
