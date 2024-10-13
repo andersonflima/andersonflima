@@ -1,41 +1,28 @@
-# Hello, I'm Anderson Faustino
+# Olá, Eu sou Anderson 👋
 
-**Senior Software Engineer | Tech Enthusiast | Lifelong Learner**
+### Desenvolvedor Full Stack | JavaScript & TypeScript Enthusiast 🚀
 
-I'm a passionate software engineer with over 9 years of experience in full-stack development, specializing in **Python**, **JavaScript**, **TypeScript**, **C#**, **Rust**, and more. My approach to coding blends **Object-Oriented Programming (OOP)** and **Functional Programming (FP)** principles, striving for clean, optimized, and scalable solutions.
+Eu sou um desenvolvedor com mais de 9 anos de experiência, apaixonado por criar soluções eficientes e escaláveis com JavaScript e TypeScript. Trabalho tanto com front-end quanto com back-end, usando uma abordagem funcional mesmo em paradigmas orientados a objetos, e sou fascinado por recursão e otimização de funções.
 
----
+## 🚀 Tecnologias & Ferramentas
 
-## Tech Stack & Tools
+- **Linguagens:** JavaScript, TypeScript, Node.js.
+- **Frameworks & Bibliotecas:** React, Next.js, Express, TailwindCSS, Jest, Chakra-ui
+- **Ferramentas:** Git, Docker, Kubernetes, Neovim, Fish Shell, esbuild
+- **Metodologias:** TDD, Clean Code, Design Patterns, Funcional Programming, OOP
 
-### Languages
 
-- Python | JavaScript | TypeScript | Rust | Go | C# | C++ | Java | Elixir | Haskell
+## 📚 O que estou aprendendo
 
-### Tools & Frameworks
+Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **TypeScript**, explorando novas técnicas de arquitetura de software e melhores práticas em projetos de larga escala.
 
-- **Web**: Node.js | Flask | Django | React | Next.js
-- **Databases**: MySQL | PostgreSQL | MongoDB | DynamoDB
-- **Cloud**: AWS Lambda | EC2 | S3 | DynamoDB
-- **DevOps**: Docker | Git | CI/CD | Kubernetes
+## 📫 Entre em contato
 
-### Architecture & Design Patterns
-
-- RESTful APIs | Microservices | SOLID | TDD | DDD | Design Patterns (Singleton, Factory, etc.)
-
----
-
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonflima&show_icons=true&hide_border=true&theme=dark)
+- GitHub: [seu-usuario](https://github.com/andersonflima)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/anderson-faustino-/)
+- Email: andersonfaustinolima@gmail.com
 
 ---
 
-## Let's Connect
+_Focado em código limpo, alta performance e soluções robustas. Vamos construir algo incrível juntos!_
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anderson-faustino-/)
-- **Email**: [andersonfaustinolima@gmail.com](mailto:andersonfaustinolima@gmail.com)
-
----
-
-"_Code is like humor. When you have to explain it, it`s bad._ _Cory House_"
