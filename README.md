@@ -1,28 +1,32 @@
-# Olá, Eu sou Anderson 👋
+# Hi, I'm Anderson 👋
 
-### Desenvolvedor Full Stack | JavaScript & TypeScript Enthusiast 🚀
+### Senior Software Engineer | Functional Programming Enthusiast 🚀
 
-Eu sou um desenvolvedor com mais de 9 anos de experiência, apaixonado por criar soluções eficientes e escaláveis com JavaScript e TypeScript. Trabalho tanto com front-end quanto com back-end, usando uma abordagem funcional mesmo em paradigmas orientados a objetos, e sou fascinado por recursão e otimização de funções.
+I'm a senior software engineer specializing in full-stack
+JavaScript and TypeScript development, with a deep passion for
+creating scalable and efficient web applications. My expertise spans
+the entire JavaScript ecosystem, particularly with frameworks like
+Node.js, React, and Next.js, where I&apos;ve built numerous
+production-grade applications that prioritize performance and user experience.
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Skills & Technologies
 
-- **Linguagens:** JavaScript, TypeScript, Node.js.
-- **Frameworks & Bibliotecas:** React, Next.js, Express, TailwindCSS, Jest, Chakra-ui
-- **Ferramentas:** Git, Docker, Kubernetes, Neovim, Fish Shell, esbuild
-- **Metodologias:** TDD, Clean Code, Design Patterns, Funcional Programming, OOP
-
+- **Linguagens:** TypeScript, JavaScript, Node.js, Python.
+- **Frameworks & Bibliotecas:** React,Nextjs, Express, TailwindCSS, Django, Flask.
+- **Ferramentas:** Git, Docker, Kubernetes, Neovim, Fish Shell.
+- **Devops**: Docker, Kubernetes, CI/CD Pipelines.
+- **Other Tools**: Git, Tmux, Fish Shell, Neovim.
 
 ## 📚 O que estou aprendendo
 
-Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **TypeScript**, explorando novas técnicas de arquitetura de software e melhores práticas em projetos de larga escala.
+Currently, I am focused on improving my skills in JavaScript and TypeScript, exploring new software architecture techniques and best practices in large-scale projects.
 
 ## 📫 Entre em contato
 
-- GitHub: [seu-usuario](https://github.com/andersonflima)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/anderson-faustino-/)
-- Email: andersonfaustinolima@gmail.com
+- GitHub: [andersonflima](https://github.com/andersonflima)
+- LinkedIn: [Anderson Faustino Lima de Espindola](https://www.linkedin.com/in/anderson-faustino-/)
+- Email: <andersonfaustinolima@gmail.com>
 
 ---
 
-_Focado em código limpo, alta performance e soluções robustas. Vamos construir algo incrível juntos!_
-
+_Focused on clean code, high performance, and robust solutions. Let�s build something amazing together!_
