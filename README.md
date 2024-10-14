@@ -17,11 +17,11 @@ production-grade applications that prioritize performance and user experience.
 - **Devops**: Docker, Kubernetes, CI/CD Pipelines.
 - **Other Tools**: Git, Tmux, Fish Shell, Neovim.
 
-## 📚 O que estou aprendendo
+## 📚 What Am I Focused On
 
 Currently, I am focused on improving my skills in JavaScript and TypeScript, exploring new software architecture techniques and best practices in large-scale projects.
 
-## 📫 Entre em contato
+## 📫 Get in touch
 
 - GitHub: [andersonflima](https://github.com/andersonflima)
 - LinkedIn: [Anderson Faustino Lima de Espindola](https://www.linkedin.com/in/anderson-faustino-/)
