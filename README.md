@@ -44,7 +44,7 @@ to help.
 
 ## 📫 Get in touch
 
-- [LinkedIN](https://www.linkedin.com/in/anderson-faustino-/)
+- [LinkedIn](https://www.linkedin.com/in/anderson-faustino-/)
 - [Portfolio](https://andersonespindola.com)
 - [Email](mailto:andersonfaustinolima@gmail.com)
 
