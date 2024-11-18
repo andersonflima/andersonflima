@@ -29,5 +29,3 @@ Vue.js ecosystems.
 - [Email](mailto:andersonfaustinolima@gmail.com)
 
 ---
-
-_Focused on clean code, high performance, and robust solutions. Let&apos;s build something amazing together!_
