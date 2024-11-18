@@ -18,11 +18,9 @@ frameworks like React, React Native, Next.js, and Vue.js.
 
 ## 📚 What Am I Focused On
 
-Currently, my focus is on advancing my expertise in JavaScript and
-TypeScript, particularly within the React, React Native, Next.js and VUE.js ecosystem, while
-leveraging the power of Node.js for scalable back-end services.
-I&apos;m also working on a personal project, using these technologies
-to create a platform that connects people in need with those willing to help.
+Currently, I am focused on advancing my skills in JavaScript and
+TypeScript, particularly within the React, React Native, Next.js, and
+Vue.js ecosystems.
 
 ## 📫 Get in touch
 
