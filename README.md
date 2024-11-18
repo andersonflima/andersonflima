@@ -3,14 +3,14 @@
 ### Senior Software Engineer | JavaScript-Focused Full-Stack Developer 🚀
 
 I&apos;m a senior software engineer specializing in full-stack
-JavaScript and TypeScript development. I have a deep passion for
+JavaScript development. I have a deep passion for
 building scalable, efficient, and high-performing web applications. My
 expertise spans the entire JavaScript ecosystem, with a strong focus on
 frameworks like React, React Native, Next.js, and Vue.js.
 
 ## 🚀 Skills & Technologies
 
-- **Linguagens:** TypeScript, JavaScript
+- **Linguagens:** TypeScript and JavaScript
 - **Frameworks & Bibliotecas:** React,React Native, Next.js, VUE.js, Express, TailwindCSS, VUEx.
 - **Ferramentas:** Git, Docker, Kubernetes, Neovim, Fish Shell.
 - **Devops**: Docker, Kubernetes, CI/CD Pipelines.
