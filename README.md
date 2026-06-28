@@ -35,6 +35,14 @@ backend services, distributed systems, cloud operations, and reliability work. M
 direction is intentionally centered on functional JavaScript and TypeScript, bringing
 production discipline to software that needs to stay clear, scalable, and resilient over time.
 
+## Selected Projects
+
+- **[Arch Draw](https://archdraw.com.br)** — Architecture drawing workspace for modeling software systems, infrastructure flows and technical diagrams. · [GitHub](https://github.com/andersonflima/arch-draw)
+- **[MinutaAI](https://minutaai.com)** — Legal platform for drafting, reviewing and analysing documents, with the Mia assistant supporting the daily workflow of lawyers and firms.
+- **[Gestão Paroquial](https://gestaoparoquial.com)** — Multi-tenant SaaS for parish treasury: finances, members and operations across isolated workspaces.
+- **[Brainlink](https://www.npmjs.com/package/@andespindola/brainlink)** — Local-first knowledge memory for agent workflows: Markdown vaults, backlinks, indexing and context retrieval.
+- **[Pingu Dev Agent](https://www.npmjs.com/package/pingu-dev-agent)** — Real-time pair-programming agent for Vim, Neovim and LazyVim, packaged as an npm CLI. · [GitHub](https://github.com/andersonflima/pingu_ai_coding_pair_programming)
+
 ## What I Am Focused On
 
 - Functional JavaScript and TypeScript with strong domain modeling
@@ -85,9 +93,17 @@ My background also includes GraphQL APIs, queue workers, Kafka, PostgreSQL, MySQ
 Redis, Neo4j, Docker, Kubernetes, AWS, CI/CD, observability, and reliability-oriented
 operations in production environments.
 
+## Top Languages
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonflima&layout=compact&langs_count=8&hide=html,css,scss&exclude_repo=origamid-bikcraft,origamid-portfolio,origamid-techno-html-vuejs,origamid-ranek-vuejs,origamid-dogs,origamid-dogs-nextjs,origamid-front-end-npm-automation" />
+</p>
+
+<p align="center">
+  <sub>Public repositories only — most recent product work lives in private TypeScript codebases.</sub>
+</p>
+
 ## Get In Touch
 
 - [Portfolio](https://andersonespindola.com)
 - [Email](mailto:andersonfaustinolima@gmail.com)
-</content>
-</invoke>
