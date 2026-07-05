@@ -46,6 +46,7 @@ production discipline to software that needs to stay clear, scalable, and resili
 - **[Brainlink](https://www.npmjs.com/package/@andespindola/brainlink)** — Local-first knowledge memory for agent workflows: Markdown vaults, backlinks, indexing and context retrieval.
 - **[Pingu Dev Agent](https://www.npmjs.com/package/pingu-dev-agent)** — Real-time pair-programming agent for Vim, Neovim and LazyVim, packaged as an npm CLI. · [GitHub](https://github.com/andersonflima/pingu_ai_coding_pair_programming)
 - **[Crowquill Mono](https://github.com/andersonflima/crowquill-mono)** — Monospace programming font that auto-bolds language keywords, built from a custom Iosevka build, with a matching monochrome editor theme for Neovim and VS Code. · [GitHub](https://github.com/andersonflima/crowquill-mono)
+- **[Crowquill Ink](https://github.com/andersonflima/crowquill-theme)** — Monochrome (black & white) theme for editors and terminal — Neovim, VS Code, Ghostty, tmux, fish and starship — companion to Crowquill Mono. · [GitHub](https://github.com/andersonflima/crowquill-theme)
 
 ## What I Am Focused On
 
