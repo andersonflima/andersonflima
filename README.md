@@ -16,6 +16,9 @@
   <a href="mailto:andersonfaustinolima@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/anderson-faustino-/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ## Primary Stack
@@ -42,6 +45,7 @@ production discipline to software that needs to stay clear, scalable, and resili
 - **[Gestão Paroquial](https://gestaoparoquial.com)** — Multi-tenant SaaS for parish treasury: finances, members and operations across isolated workspaces.
 - **[Brainlink](https://www.npmjs.com/package/@andespindola/brainlink)** — Local-first knowledge memory for agent workflows: Markdown vaults, backlinks, indexing and context retrieval.
 - **[Pingu Dev Agent](https://www.npmjs.com/package/pingu-dev-agent)** — Real-time pair-programming agent for Vim, Neovim and LazyVim, packaged as an npm CLI. · [GitHub](https://github.com/andersonflima/pingu_ai_coding_pair_programming)
+- **[Crowquill Mono](https://github.com/andersonflima/crowquill-mono)** — Monospace programming font that auto-bolds language keywords, built from a custom Iosevka build, with a matching monochrome editor theme for Neovim and VS Code. · [GitHub](https://github.com/andersonflima/crowquill-mono)
 
 ## What I Am Focused On
 
