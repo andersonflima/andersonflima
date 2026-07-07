@@ -1,12 +1,13 @@
 <h1 align="center">Anderson Espindola</h1>
 
 <p align="center">
-  <strong>Functional JavaScript Engineer</strong>
+  <strong>Senior Backend Engineer</strong>
 </p>
 
 <p align="center">
-  I build products and backend systems with functional JavaScript and TypeScript, focusing on
-  domain clarity, immutability, explicit effects, and reliable production behavior.
+  I'm a senior software engineer focused on backend. I build APIs, distributed systems and the
+  reliability layer that keeps them running, with TypeScript, Node.js and functional programming.
+  Most of my recent work has been on large-scale fintech at Itaú and PicPay.
 </p>
 
 <p align="center">
@@ -24,45 +25,46 @@
 ## Primary Stack
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ## About Me
 
-I'm a senior software engineer with 14+ years of experience across product engineering,
-backend services, distributed systems, cloud operations, and reliability work. My current
-direction is intentionally centered on functional JavaScript and TypeScript, bringing
-production discipline to software that needs to stay clear, scalable, and resilient over time.
+I'm a senior software engineer with 14+ years across backend services, distributed systems,
+cloud operations and reliability. My work sits between full-stack delivery, backend
+architecture and production reliability, and I lean on functional programming in TypeScript and
+Node.js where it pays off. I care about systems that stay understandable long after they ship,
+and about teams that keep delivering without piling up hidden risk.
 
 ## Selected Projects
 
 - **[Arch Draw](https://archdraw.com.br)** — Architecture drawing workspace for modeling software systems, infrastructure flows and technical diagrams. · [GitHub](https://github.com/andersonflima/arch-draw)
-- **[MinutaAI](https://minutaai.com)** — Legal platform for drafting, reviewing and analysing documents, with the Mia assistant supporting the daily workflow of lawyers and firms.
+- **[MinutaAI](https://minutaai.com)** — Legal platform for drafting, reviewing and analysing documents, with the Mia assistant supporting the daily work of lawyers and firms.
 - **[Gestão Paroquial](https://gestaoparoquial.com)** — Multi-tenant SaaS for parish treasury: finances, members and operations across isolated workspaces.
 - **[Brainlink](https://www.npmjs.com/package/@andespindola/brainlink)** — Local-first knowledge memory for agent workflows: Markdown vaults, backlinks, indexing and context retrieval.
 - **[Pingu Dev Agent](https://www.npmjs.com/package/pingu-dev-agent)** — Real-time pair-programming agent for Vim, Neovim and LazyVim, packaged as an npm CLI. · [GitHub](https://github.com/andersonflima/pingu_ai_coding_pair_programming)
 - **[Crowquill Mono](https://github.com/andersonflima/crowquill-mono)** — Monospace programming font that auto-bolds language keywords, built from a custom Iosevka build, with a matching monochrome editor theme for Neovim and VS Code. · [GitHub](https://github.com/andersonflima/crowquill-mono)
-- **[Crowquill Ink](https://github.com/andersonflima/crowquill-theme)** — Monochrome (black & white) theme for editors and terminal — Neovim, VS Code, Ghostty, tmux, fish and starship — companion to Crowquill Mono. · [GitHub](https://github.com/andersonflima/crowquill-theme)
+- **[Crowquill Ink](https://github.com/andersonflima/crowquill-theme)** — Monochrome (black & white) theme for editors and terminal (Neovim, VS Code, Ghostty, tmux, fish and starship), companion to Crowquill Mono. · [GitHub](https://github.com/andersonflima/crowquill-theme)
 
-## What I Am Focused On
+## What I Focus On
 
-- Functional JavaScript and TypeScript with strong domain modeling
-- Explicit data flows, immutable design, and functional boundaries
-- Business logic separated from side effects and runtime concerns
-- Distributed, event-driven, and message-oriented systems
-- Reliable production behavior shaped by observability, deployment, and SRE practice
+- Backend services, APIs and distributed systems
+- Functional programming in TypeScript and Node.js: immutable data, explicit boundaries, isolated effects
+- Event-driven and message-oriented systems (Kafka, RabbitMQ)
+- Data chosen by access pattern: PostgreSQL, MySQL, MongoDB, Redis, Neo4j
+- Production reliability: observability, deployment flows and SRE practice
 
 ## How I Build Software
 
-- Pure functions where possible, side effects isolated where necessary
-- Domain modeling with clear boundaries and meaningful abstractions
+- Pure functions where possible, side effects isolated where needed
+- Clear domain boundaries, with business rules separated from runtime concerns
 - Declarative transformations instead of imperative orchestration
-- Simplicity, correctness, and maintainability before accidental complexity
-- Resilience treated as an architectural concern from the start
+- Simplicity and correctness before cleverness
+- Reliability treated as an architectural concern from the start
 
 ## Functional Programming
 
@@ -72,13 +74,12 @@ production discipline to software that needs to stay clear, scalable, and resili
   <img alt="Composition" src="https://img.shields.io/badge/Composition-1F2937?style=flat-square" />
   <img alt="Explicit Effects" src="https://img.shields.io/badge/Explicit_Effects-1F2937?style=flat-square" />
   <img alt="Type Driven Modeling" src="https://img.shields.io/badge/Type_Driven_Modeling-1F2937?style=flat-square" />
-  <img alt="Property Based Thinking" src="https://img.shields.io/badge/Property_Based_Thinking-1F2937?style=flat-square" />
 </p>
 
 - Algebraic modeling and explicit error handling
 - Deterministic behavior and code that is easier to reason about
-- Separation between business rules and runtime concerns
-- Functional architecture applied to distributed systems
+- Business rules kept separate from runtime concerns
+- Functional ideas applied to distributed backend systems
 
 ## Broader Background
 
@@ -91,12 +92,10 @@ production discipline to software that needs to stay clear, scalable, and resili
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
 </p>
 
-Beyond JavaScript and TypeScript, I work with Elixir and the BEAM/OTP ecosystem, plus Python,
-Go, Rust, C#, and Haskell, drawing on functional ideas across runtimes.
-
-My background also includes GraphQL APIs, queue workers, Kafka, PostgreSQL, MySQL, MongoDB,
-Redis, Neo4j, Docker, Kubernetes, AWS, CI/CD, observability, and reliability-oriented
-operations in production environments.
+Beyond TypeScript and Node.js, I work with Python, Go, C#, Rust, Elixir (BEAM/OTP) and Haskell,
+carrying functional ideas across runtimes. My background also covers GraphQL APIs, queue
+workers, Kafka, PostgreSQL, MySQL, MongoDB, Redis, Neo4j, Docker, Kubernetes, AWS, CI/CD,
+observability and reliability-oriented operations in production.
 
 ## Top Languages
 
@@ -112,3 +111,4 @@ operations in production environments.
 
 - [Portfolio](https://andersonespindola.com)
 - [Email](mailto:andersonfaustinolima@gmail.com)
+- [LinkedIn](https://linkedin.com/in/anderson-faustino-/)
